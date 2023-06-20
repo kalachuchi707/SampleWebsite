@@ -1,0 +1,10 @@
+body{
+    width: 80%;
+    hiehgt:100vh;
+    margin:0;
+}
+
+label{
+    display:block;
+    margin:0.5rem 0;
+}
